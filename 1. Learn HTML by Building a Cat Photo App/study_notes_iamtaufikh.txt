@@ -6,4 +6,5 @@ HTML tags give a webpage its structure. You can use HTML tags to add photos, but
 
 CATATAN
 #Step 1
-Pada step ini kita belajar tentang salah satu jenis HTML Elements, yaitu "Heading" yang penulisannya seperti ini <h1> .... </h1>.
+Pada step ini kita belajar tentang salah satu jenis HTML Elements, yaitu "Heading" yang penulisannya seperti ini <h1> ..... </h1>.
+
