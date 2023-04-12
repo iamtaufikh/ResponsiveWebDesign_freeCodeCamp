@@ -1,3 +1,41 @@
 Nama Bab
 
 Catatan:
+Step 1
+<!DOCTYPE html>
+<html>
+
+Step 2
+<head>
+
+Step 3
+<title>
+<meta>
+
+Step 4
+<body>
+
+Step 5
+<main>
+
+Step 6
+<h1>
+
+Step 7
+<p>
+
+Step 8
+<section>
+
+Step 9
+<h2>
+
+Step 10
+<style>
+
+Step 11
+Step 12
+Step 13
+Step 14
+Step 15
+
