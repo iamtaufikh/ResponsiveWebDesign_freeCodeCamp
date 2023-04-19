@@ -1,45 +1,72 @@
 Nama Bab
 
 Catatan:
-Step 1
+Step 1 (HTML)
 <!DOCTYPE html>
 <html>
 
-Step 2
+Step 2 (HTML)
 <head>
 
-Step 3
+Step 3 (HTML)
 <title>
 <meta>
 
-Step 4
+Step 4 (HTML)
 <body>
 
-Step 5
+Step 5 (HTML)
 <main>
 
-Step 6
+Step 6 (HTML)
 <h1>
 
-Step 7
+Step 7 (HTML)
 <p>
 
-Step 8
+Step 8 (HTML)
 <section>
 
-Step 9
+Step 9 (HTML)
 <h2>
 
-Step 10
+Step 10 (HTML)
 <style>
 
-Step 11
+Step 11 (CSS)
 h1 {
   text-align: center;
 }
 
 Step 12
+h2 {
+   text-align:center;
+ }
+p {
+   text-align:center;
+ }
+ 
 Step 13
+h1, h2, p {
+   text-align: center;
+ }
+ 
 Step 14
-Step 15
+(buat file baru styles.css dan isi dengan perintah yang sama)
+h1, h2, p {
+   text-align: center;
+ }
 
+Step 15
+(menghapus perintah <style> di file html)
+<style>
+h1, h2, p {
+   text-align: center;
+ }
+    </style>
+
+Step 26
+Step 27
+Step 28
+Step 29
+Step 30
