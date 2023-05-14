@@ -65,8 +65,15 @@ h1, h2, p {
  }
     </style>
 
-Step 26
-Step 27
-Step 28
-Step 29
-Step 30
+Step 16
+(menghubungkan link html ke css)
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="utf-8" />
+    <title>Cafe Menu</title>
+  </head>
+
+Step 17
+Step 18
+Step 19
+Step 20
